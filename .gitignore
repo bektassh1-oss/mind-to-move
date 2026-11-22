@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+data/
+results/
+.DS_Store
+
+# Added for GitHub upload: other local environments and credentials
+.venv-*/
+.env
+.env.*
+*.pem
+*.key
